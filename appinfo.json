@@ -1,7 +1,7 @@
 {
 		"name": "Agate  (OBiBa's central authentication server)",
 		"short_name": "Agate",
-		"version": "1.4.12",
+		"version": "1.1.12",
 		"description": "Agate is the OBiBa’s central authentication server. Agate is also used for its email notification services..",
 		"catalogue_url": "",
 		"application_url": "http://www.obiba.org/pages/products/agate/",
